@@ -26,10 +26,8 @@ This is a Perl script. Without Perl it won't work.
 
 The script assumes that get-iplayer is installed to the user's PATH.
 
-It may work under OS X; I don't really know. 
-
 ### Windows (and OS X?)
 
 The script was written for use under Linux. The script won't work with Windows, but it can be helpful (assuming you have Perl installed). The script will output a list of commands you can feed into get_iplayer to download programs for you. My understanding is that these commands for Windows are slightly different from the Linux versions. You should be able to edit the output file to turn the commands into the proper syntax for your system.
 
-The script may work on OS X; I have no way kf knowing. If not, you can probably use it to extract useful commands, as per Windows.
+The script may work on OS X; I have no way of knowing. If not, you can probably use it to extract useful commands, as per Windows.
